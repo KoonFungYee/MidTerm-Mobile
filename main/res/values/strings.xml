@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MidTerm</string>
+    <string name="shop">New Restaurant</string>
+    <string name="sale">Promotion</string>
+    <string name="me">Profile</string>
+
+
+    <string-array name="gender">
+        <item></item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

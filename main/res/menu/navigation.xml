@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newrestaurant"
+        android:icon="@mipmap/shop"
+        android:title="@string/shop" />
+
+    <item
+        android:id="@+id/promotion"
+        android:icon="@mipmap/noti"
+        android:title="@string/sale" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@mipmap/user"
+        android:title="@string/me" />
+
+</menu>

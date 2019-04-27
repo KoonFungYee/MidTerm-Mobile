@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40CCEF</color> <!--bar-->
+    <color name="colorPrimaryDark">#F3EDEB</color> <!--上面-->
+    <color name="colorAccent">#D81B60</color> <!--写字-->
+    <color name="button">#cf3de5</color>
+
+</resources>
